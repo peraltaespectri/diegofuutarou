@@ -2,11 +2,11 @@ export default {
   tgUsername: "aryanvikash",
   githubUsername: "aryanvikash",
   websiteName: "@aryanvikash",
-  heroHead: "Hey There !!",
-  heroText: "AryanVikash is here , I’m a ",
+  heroHead: "SEJA BEM-VINDO",
+  heroText: "Eu Sou Um ",
   facebookUsername: "Ar.vikash8",
   instaUsername: "ar_vikash",
-  typedArray: ["Developer", "Fast Learner", "Open-source Lover"],
+  typedArray: ["Desenvolvedor", "Aprendiz Rápido", " Amante do Open-source"],
   stacks: [
     {
       name: "Skills",
