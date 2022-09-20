@@ -6,9 +6,9 @@ import Footer from "../components/footer"
 
 export default function Home() {
 
-const description = "A developer with few Skills"
-const pageTitle = "Aryan Vikash"
-const siteName = "aryanvikash"
+const description = "Um desenvolvedor com poucas habilidades"
+const pageTitle = "Diego Fuutarou"
+const siteName = "DiegoFuutarou"
 
 
 
