@@ -18,7 +18,7 @@ const siteName = "DiegoFuutarou"
       <title>{pageTitle}</title>
       <meta name="viewport" content="width=device-width, initial-scale=1" />
         <meta charSet="utf-8" />
-        <meta name="description" content="A developer with few Skills" />
+        <meta name="description" content="Um desenvolvedor com poucas habilidades" />
         <meta property="og:title" content={pageTitle} key="ogtitle" />
         <meta name="twitter:card" content="summary_large_image" key="twcard" />
         <meta property="og:description" content={description} key="ogdesc" />
@@ -26,8 +26,8 @@ const siteName = "DiegoFuutarou"
         
 
         {/* Open Graph */}
-        <meta property="og:url" content="https://aryanvikash.com" key="ogurl" />
-        <meta property="og:image" content="https://github.com/aryanvikash.png" key="ogimage" />
+        <meta property="og:url" content="https://diegofuutarou.com" key="ogurl" />
+        <meta property="og:image" content="https://github.com/diegofuutarou.png" key="ogimage" />
         <meta property="og:site_name" content={siteName} key="ogsitename" />
         <meta property="og:title" content={pageTitle} key="ogtitle" />
         <meta property="og:description" content={description} key="ogdesc" />
