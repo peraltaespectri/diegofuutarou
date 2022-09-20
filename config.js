@@ -1,6 +1,6 @@
 export default {
   tgUsername: "diegofuutarou",
-  githubUsername: "peraltaespectri",
+  githubUsername: "lksnapile",
   websiteName: "Diego Fuutarou",
   heroHead: "Olá, Eu sou o Diego",
   heroText: "Abaixo algumas Informções Sobre Mim",
