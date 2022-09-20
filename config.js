@@ -6,7 +6,7 @@ export default {
   heroText: "",
   facebookUsername: "Ar.vikash8",
   instaUsername: "ar_vikash",
-  typedArray: [ "1", "Desenvolvedor Aprendiz", "2", "Paranaense", "3",  "Corintiano","4"  "colocar depois"],
+  typedArray: ["1", "Desenvolvedor Aprendiz", "2", "Paranaense", "3",  "Corintiano", "4", "colocar depois"],
   stacks: [
     {
       name: "Redes Sociais",
