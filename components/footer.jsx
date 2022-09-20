@@ -57,9 +57,6 @@ export default function footer() {
               />
             </a>
           </li>
-
-        </div>
-      </footer>
     </div>
   );
 }
