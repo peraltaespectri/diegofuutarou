@@ -30,13 +30,10 @@ export default {
           name: "Dart",
           imageUrl: "https://img.icons8.com/color/480/000000/dart.png",
           link: "https://dart.dev/",
-        },
-      ],
-    },
-    {
-      name: "Habilidades",
-      items: [
-        {
+        }
+        ],
+        [
+      {
           name: "Android Os",
           imageUrl: "https://img.icons8.com/fluent/240/000000/android-os.png",
           link: "https://www.android.com/",
