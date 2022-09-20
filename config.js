@@ -21,11 +21,11 @@ export default {
           imageUrl: "https://img.icons8.com/color/96/000000/api-settings.png",
           link: "https://en.wikipedia.org/wiki/API",
         },
-        <br>{
-          name: "API",
+        {
+          name: <"API"</br>,
           imageUrl: "https://img.icons8.com/color/96/000000/api-settings.png",
           link: "https://en.wikipedia.org/wiki/API",
-        }</br>,
+        },
         {
           name: "API",
           imageUrl: "https://img.icons8.com/color/96/000000/api-settings.png",
