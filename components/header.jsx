@@ -17,10 +17,6 @@ export default function Customhead() {
               className="d-inline-block align-top"
               alt="aryanvikash"
             />
-            <kbd id="username">diegofuutarou</kbd>
-          </a>
-        </Link>
-
       </nav>
     </div>
   );
