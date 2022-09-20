@@ -1,5 +1,5 @@
 export default {
-  tgUsername: "aryanvikash",
+  tgUsername: "diegofuutarou",
   githubUsername: "aryanvikash",
   websiteName: "@aryanvikash",
   heroHead: "SEJA BEM-VINDO",
@@ -22,7 +22,7 @@ export default {
           link: "https://en.wikipedia.org/wiki/API",
         },
         {
-          name: <"API"</br>,
+          name: "API",
           imageUrl: "https://img.icons8.com/color/96/000000/api-settings.png",
           link: "https://en.wikipedia.org/wiki/API",
         },
