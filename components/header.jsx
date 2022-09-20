@@ -17,12 +17,12 @@ export default function Customhead() {
               className="d-inline-block align-top"
               alt="aryanvikash"
             />
-            <kbd id="username">{config.websiteName}</kbd>
+            <kbd id="username">diegofuutarou</kbd>
           </a>
         </Link>
 
         <Link href="/projects" as="/projects">
-          <a className={"btn btn-outline-light"}>Projects</a>
+          <a className={"btn btn-outline-light"}>Projetos</a>
         </Link>
       </nav>
     </div>
