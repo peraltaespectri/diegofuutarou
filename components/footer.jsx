@@ -13,7 +13,7 @@ export default function footer() {
             >
               <img
                 style={{ width: "35px", height: "35px" }}
-                src={"https://img.icons8.com/doodle/48/000000/facebook-new.png"}
+                src={"https://img.icons8.com/fluency/344/facebook-circled.png"}
                 alt="github"
               />
             </a>
@@ -52,7 +52,7 @@ export default function footer() {
             >
               <img
                 style={{ width: "35px", height: "35px" }}
-                src="https://img.icons8.com/doodle/48/000000/github.png"
+                src="https://img.icons8.com/fluent/344/github.png"
                 alt="github"
               />
             </a>
