@@ -19,17 +19,17 @@ export default {
         {
           name: "Instagram",
           imageUrl: "https://img.icons8.com/3d-fluency/344/instagram-new.png",
-          link: "https://instagram.com",
+          link: "https://www.instagram.com",
         },
         {
           name: "Whatsapp",
           imageUrl: "https://img.icons8.com/color/96/000000/api-settings.png",
-          link: "https://whatsapp.com",
+          link: "https://www.whatsapp.com",
         },
         {
           name: "VK",
           imageUrl: "https://img.icons8.com/color/344/vk-circled.png",
-          link: "https://vk.com",
+          link: "https://www.vk.com",
         },
       ],
     },
