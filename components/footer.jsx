@@ -1,5 +1,4 @@
 
-
 import config from "../config"
 import Link from "next/link"
 export default function footer() {
@@ -57,6 +56,8 @@ export default function footer() {
                 alt="github"
               />
             </a>
+          </li>
+
         </div>
       </footer>
     </div>
