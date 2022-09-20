@@ -33,8 +33,33 @@ export default {
         },
       ],
     },
-    {
+        {
       name: "",
+      items: [
+        {
+          name: "Android Os",
+          imageUrl: "https://img.icons8.com/fluent/240/000000/android-os.png",
+          link: "https://www.android.com/",
+        },
+        {
+          name: "API",
+          imageUrl: "https://img.icons8.com/color/96/000000/api-settings.png",
+          link: "https://en.wikipedia.org/wiki/API",
+        },
+        {
+          name: "API",
+          imageUrl: "https://img.icons8.com/color/96/000000/api-settings.png",
+          link: "https://en.wikipedia.org/wiki/API",
+        },
+        {
+          name: "API",
+          imageUrl: "https://img.icons8.com/color/96/000000/api-settings.png",
+          link: "https://en.wikipedia.org/wiki/API",
+        },
+      ],
+    },
+    {
+      name: "Ferramentas",
       items: [
         {
           name: "Visual Studio Code",
@@ -46,6 +71,11 @@ export default {
           name: "IntelliJ IDEA",
           imageUrl: "https://img.icons8.com/color/480/000000/intellij-idea.png",
           link: "https://www.jetbrains.com/idea/",
+        },
+        {
+          name: "Git",
+          imageUrl: "https://img.icons8.com/color/144/000000/git.png",
+          link: "https://git-scm.com/",
         },
         {
           name: "Git",
