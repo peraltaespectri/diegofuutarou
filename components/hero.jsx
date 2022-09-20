@@ -1,6 +1,10 @@
 import Typed from "react-typed";
 import config from "../config";
 export default function Hero() {
+  function AlertIt() {
+    if (window.confirm("open Telegram?"))
+      window.location = `https://t.me/diegofuutarou`;
+  }
   return (
     <div className={"container mt-5"}>
       <h3>
@@ -12,10 +16,6 @@ export default function Hero() {
           </span>
         </div>
       </h3>
-      <button
-        className={"btn btn-primary btn-md active mt-4"}
-        onClick={() => AlertIt()}
-      >
     </div>
   );
 }
