@@ -1,4 +1,5 @@
 import config from "../config";
+import Link from "next/link";
 
 
 export default function Customhead() {
@@ -14,11 +15,11 @@ export default function Customhead() {
               width="0"
               height="0"
               className="d-inline-block align-top"
-              alt=""
+              alt="diegofuutarou"
             />
             <kbd id="username"></kbd>
           </a>
-        </Link>
+        <>
 
       </nav>
     </div>
