@@ -8,8 +8,6 @@ export default function Customhead() {
   return (
     <div id="home">
       <nav className="navbar navbar-light bg-dark">
-        <Link href="/">
-          <a className={"navbar-brand logo"} >
             <img
               src="./code.png"
               width="0"
@@ -19,7 +17,6 @@ export default function Customhead() {
             />
             <kbd id="username"></kbd>
           </a>
-        </Link>
 
       </nav>
     </div>
