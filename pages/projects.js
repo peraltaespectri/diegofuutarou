@@ -31,7 +31,7 @@ export default function projects({projects}) {
 }
 
 export async function getStaticProps(context) {
-  const uri = `https://api.github.com/users/peraltaespectri/repos`;
+  const uri = `https://api.github.com/users/${config.githubUsername}/repos`;
  
     const res = await axios.get(uri)
  
