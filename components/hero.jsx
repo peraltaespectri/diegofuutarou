@@ -5,7 +5,7 @@ import config from "../config";
 export default function Hero() {
   function AlertIt() {
     if (window.confirm("open Telegram?"))
-      window.location = `https://t.me/${config.tgUsername}`;
+      window.location = `https://t.me/diegofuutarou`;
   }
 
   return (
@@ -25,7 +25,7 @@ export default function Hero() {
         className={"btn btn-primary btn-md active mt-4"}
         onClick={() => AlertIt()}
       >
-        Telegram me
+        Meu Telegram
       </button>
     </div>
   );
