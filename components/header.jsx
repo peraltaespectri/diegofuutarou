@@ -15,7 +15,11 @@ export default function Customhead() {
               width="30"
               height="30"
               className="d-inline-block align-top"
-              alt="Diegofuutarou">
+              alt="diegofuutarou"
+            />
+            <kbd id="username">Diego Fuutarou</kbd>
+          </a>
+        </Link>
 
       </nav>
     </div>
