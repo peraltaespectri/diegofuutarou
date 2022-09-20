@@ -7,9 +7,6 @@ export default function Customhead() {
 
   return (
     <div id="home">
-      <nav className="navbar navbar-light bg-dark">
-           
-      </nav>
     </div>
   );
 }
