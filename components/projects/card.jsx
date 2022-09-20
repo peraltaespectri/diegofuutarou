@@ -3,7 +3,7 @@ import React from "react";
 export default function card(props) {
   var desc ;
   if (!props.bodyText) {
-    desc = <p className="card-text text-danger">Not Avalible</p>;
+    desc = <p className="card-text text-danger">Não disponível</p>;
   } else {
      desc = <p className="card-text ">{props.bodyText}</p>;
   }
