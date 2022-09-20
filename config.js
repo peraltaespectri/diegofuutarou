@@ -3,7 +3,7 @@ export default {
   githubUsername: "aryanvikash",
   websiteName: "@aryanvikash",
   heroHead: "SEJA BEM-VINDO",
-  heroText: "Eu Sou Um ",
+  heroText: "",
   facebookUsername: "Ar.vikash8",
   instaUsername: "ar_vikash",
   typedArray: ["Desenvolvedor Aprendiz", "Paranaense", "Corintiano", "1", "2", "3", "4"],
