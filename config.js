@@ -1,11 +1,11 @@
 export default {
   tgUsername: "diegofuutarou",
   githubUsername: "aryanvikash",
-  websiteName: "@aryanvikash",
-  heroHead: "SEJA BEM-VINDO",
-  heroText: "",
-  facebookUsername: "Ar.vikash8",
-  instaUsername: "ar_vikash",
+  websiteName: "Diego Fuutarou",
+  heroHead: "Olá, Eu sou o Diego",
+  heroText: "Abaixo algumas Informções Sobre Mim",
+  facebookUsername: "diegofuutarou",
+  instaUsername: "diegofuutarou",
   typedArray: ["1", "Desenvolvedor Aprendiz", "2", "Paranaense", "3",  "Corintiano", "4", "colocar depois"],
   stacks: [
     {
