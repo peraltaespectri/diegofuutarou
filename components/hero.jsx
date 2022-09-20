@@ -9,7 +9,7 @@ export default function Hero() {
     <div className={"container mt-5"}>
       <h3>
         <center><kbd className={"text-light"}>{config.heroHead}</kbd> 
-        </center><br />
+        </center></br>
         <center><code className="text-light">{config.heroText}</code></center>
         <div>
           <span className="badge badge-warning">
