@@ -19,7 +19,6 @@ export default function Customhead() {
             />
             <kbd id="username"></kbd>
           </a>
-        </Link>
 
       </nav>
     </div>
