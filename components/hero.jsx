@@ -10,7 +10,7 @@ export default function Hero() {
 
   return (
     <div className={"container mt-5"}>
-      <h3>
+      <h1>
         <kbd className={"text-light"}>{config.heroHead}</kbd>
         <br />
         <code className="text-light">{config.heroText}</code>
@@ -19,7 +19,7 @@ export default function Hero() {
             <Typed strings={config.typedArray} typeSpeed={40} loop ={true} />
           </span>
         </div>
-      </h3>
+      </h1>
 
       <button
         className={"btn btn-primary btn-md active mt-4"}
