@@ -14,7 +14,7 @@ export default {
         {
           name: "Telegram",
           imageUrl: "https://img.icons8.com/color/344/telegram-app.png",
-          link: "https://www.telegram.com/",
+          link: "https://www.telegram.org/",
         },
         {
           name: "Instagram",
@@ -23,7 +23,7 @@ export default {
         },
         {
           name: "Whatsapp",
-          imageUrl: "https://img.icons8.com/color/96/000000/api-settings.png",
+          imageUrl: "https://img.icons8.com/fluency/344/whatsapp.png",
           link: "https://www.whatsapp.com",
         },
         {
