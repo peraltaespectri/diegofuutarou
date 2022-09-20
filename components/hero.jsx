@@ -11,8 +11,9 @@ export default function Hero() {
         <center><kbd className={"text-light"}>{config.heroHead}</kbd></center>
         <center><code className="text-light">{config.heroText}</code></center>
         <div>
-          <span className="badge badge-warning">
-            <center><Typed strings={config.typedArray} typeSpeed={40} loop ={true} /></div></center>
+          <span <center>className="badge badge-warning">
+           <Typed strings={config.typedArray} typeSpeed={40} loop ={true}</center> />
+      </div>
       </h3>
       <button
         className={"btn btn-primary btn-md active mt-4"}
