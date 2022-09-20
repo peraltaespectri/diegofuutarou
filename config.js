@@ -22,92 +22,19 @@ export default {
           link: "https://en.wikipedia.org/wiki/API",
         },
         {
-          name: "Dart",
-          imageUrl: "https://img.icons8.com/color/480/000000/dart.png",
-          link: "https://dart.dev/",
-        },
-        {
-          name: "Dart",
-          imageUrl: "https://img.icons8.com/color/480/000000/dart.png",
-          link: "https://dart.dev/",
-        }
-        ],
-        [
-      {
-          name: "Android Os",
-          imageUrl: "https://img.icons8.com/fluent/240/000000/android-os.png",
-          link: "https://www.android.com/",
+          name: "API",
+          imageUrl: "https://img.icons8.com/color/96/000000/api-settings.png",
+          link: "https://en.wikipedia.org/wiki/API",
         },
         {
           name: "API",
           imageUrl: "https://img.icons8.com/color/96/000000/api-settings.png",
           link: "https://en.wikipedia.org/wiki/API",
         },
-        {
-          name: "Dart",
-          imageUrl: "https://img.icons8.com/color/480/000000/dart.png",
-          link: "https://dart.dev/",
-        },
-        {
-          name: "Dart",
-          imageUrl: "https://img.icons8.com/color/480/000000/dart.png",
-          link: "https://dart.dev/",
-        },
       ],
     },
     {
-      name: "Programming Languages",
-      items: [
-        {
-          name: "C",
-          imageUrl: "https://img.icons8.com/color/96/000000/c-programming.png",
-          link: "https://en.wikipedia.org/wiki/C_(programming_language)",
-        },
-        {
-          name: "C++",
-          imageUrl:
-            "https://img.icons8.com/color/480/000000/c-plus-plus-logo.png",
-          link: "https://en.wikipedia.org/wiki/C%2B%2B",
-        },
-        {
-          name: "Python",
-          imageUrl: "https://img.icons8.com/color/480/000000/python.png",
-          link: "https://www.python.org/",
-        },
-        {
-          name: "Dart",
-          imageUrl: "https://img.icons8.com/color/480/000000/dart.png",
-          link: "https://dart.dev/",
-        },
-        {
-          name: "JavaScript",
-          imageUrl: "https://img.icons8.com/color/480/000000/javascript.png",
-          link: "https://en.wikipedia.org/wiki/JavaScript",
-        },
-        {
-          name: "Kotlin",
-          imageUrl: "https://img.icons8.com/color/480/000000/kotlin.png",
-          link: "https://kotlinlang.org/",
-        },
-      ],
-    },
-    {
-      name: "Frameworks",
-      items: [
-        {
-          name: "Flutter",
-          imageUrl: "https://img.icons8.com/color/96/000000/flutter.png",
-          link: "https://flutter.dev/",
-        },
-        {
-          name: "React",
-          imageUrl: "https://img.icons8.com/plasticine/400/000000/react.png",
-          link: "https://reactjs.org/",
-        },
-      ],
-    },
-    {
-      name: "Tools",
+      name: "Ferramentas",
       items: [
         {
           name: "Visual Studio Code",
