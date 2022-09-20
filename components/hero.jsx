@@ -8,8 +8,8 @@ export default function Hero() {
   return (
     <div className={"container mt-5"}>
       <h3>
-        <kbd className={"text-light"}>{config.heroHead}</kbd> 
-        <br />
+        <center><kbd className={"text-light"}>{config.heroHead}</kbd> 
+        <br></center>
         <center><code className="text-light">{config.heroText}</code></center>
         <div>
           <span className="badge badge-warning">
