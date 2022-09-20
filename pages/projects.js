@@ -1,11 +1,10 @@
-
 import Projects from "../components/projects/projects"
 import axios from "axios";
 import React, { useState, useEffect } from "react";
 import config from "../config"
 
 export default function projects({projects}) {
-  // const uri = `https://api.github.com/users/peraltaespectri/repos`;
+  // const uri = `https://api.github.com/users/${config.githubUsername}/repos`;
   //     const [data, setData] = useState({});
 
       // useEffect(() => {
