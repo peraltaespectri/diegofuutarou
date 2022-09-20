@@ -7,7 +7,6 @@ export default function Customhead() {
 
   return (
     <div id="home">
-      <nav className="navbar navbar-light bg-dark">
         <Link href="/">
           <a className={"navbar-brand logo"} >
             <img
