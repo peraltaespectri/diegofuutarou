@@ -9,16 +9,15 @@ export default function Hero() {
   }
 
   return (
-    <div <center> className={"container mt-5"}>
+    <div className={"container mt-5"}>
       <h3>
-        <kbd className={"text-light"}>{config.heroHead}</kbd>
+        <kbd className={"text-light"}>{config.heroHead}</kbd> 
         <br />
-        <code className="text-light">{config.heroText}</code>
+        </center><code className="text-light">{config.heroText}</code></center>
         <div>
           <span className="badge badge-warning">
             <Typed strings={config.typedArray} typeSpeed={40} loop ={true} />
           </span>
-         </center>
         </div>
       </h3>
 
