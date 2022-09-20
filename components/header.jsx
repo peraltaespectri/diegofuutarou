@@ -18,8 +18,6 @@ export default function Customhead() {
               alt="diegofuutarou"
             />
             <kbd id="username"></kbd>
-          </a>
-        <>
 
       </nav>
     </div>
