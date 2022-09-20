@@ -2,9 +2,9 @@ import config from "../config";
 import Link from "next/link";
 
 
-export default function {
+export default function Customhead() {
   return (
-    <div id="home">
+    <div id="">
     </div>
   );
 }
