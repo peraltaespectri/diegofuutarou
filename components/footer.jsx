@@ -8,7 +8,7 @@ export default function footer() {
         <ul className="list-unstyled list-inline text-center">
           <li className="list-inline-item">
             <a
-              href={"https://fb.me/" + config.facebookUsername}
+              href={"https://fb.me/diegofuutarou"}
               className="btn-floating btn-fb mx-1"
             >
               <img
@@ -21,7 +21,7 @@ export default function footer() {
 
           <li className="list-inline-item">
             <a
-              href={"https://t.me/" + config.tgUsername}
+              href={"https://t.me/diegofuutarou"}
               className="btn-floating btn-tw mx-1"
             >
               <img
@@ -34,7 +34,7 @@ export default function footer() {
 
           <li className="list-inline-item">
             <a
-              href={"https://www.instagram.com/" + config.instaUsername}
+              href={"https://www.instagram.com/diegofuutarou"}
               className="btn-floating btn-tw mx-1"
             >
               <img
@@ -47,7 +47,7 @@ export default function footer() {
 
           <li className="list-inline-item">
             <a
-              href={"https://github.com/" + config.githubUsername}
+              href={"https://github.com/diegofuutarou"}
               className="btn-floating btn-tw mx-1"
             >
               <img
