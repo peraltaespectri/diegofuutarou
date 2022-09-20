@@ -9,7 +9,7 @@ export default {
   typedArray: ["Desenvolvedor", "Aprendiz Rápido", " Amante do Open-source"],
   stacks: [
     {
-      name: "Skills",
+      name: "Habilidades",
       items: [
         {
           name: "Android Os",
@@ -20,6 +20,30 @@ export default {
           name: "API",
           imageUrl: "https://img.icons8.com/color/96/000000/api-settings.png",
           link: "https://en.wikipedia.org/wiki/API",
+        },
+        {
+          name: "Dart",
+          imageUrl: "https://img.icons8.com/color/480/000000/dart.png",
+          link: "https://dart.dev/",
+        },
+      ],
+    },
+    {
+      items: [
+        {
+          name: "Android Os",
+          imageUrl: "https://img.icons8.com/fluent/240/000000/android-os.png",
+          link: "https://www.android.com/",
+        },
+        {
+          name: "API",
+          imageUrl: "https://img.icons8.com/color/96/000000/api-settings.png",
+          link: "https://en.wikipedia.org/wiki/API",
+        },
+        {
+          name: "Dart",
+          imageUrl: "https://img.icons8.com/color/480/000000/dart.png",
+          link: "https://dart.dev/",
         },
       ],
     },
