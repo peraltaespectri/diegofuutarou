@@ -24,9 +24,8 @@ export default {
         {
           name: "API",
           imageUrl: "https://img.icons8.com/color/96/000000/api-settings.png",
-          link: "https://en.wikipedia.org/wiki/API",
+          link: "https://en.wikipedia.org/wiki/API",<br>
         },
-<br>
         {
           name: "API",
           imageUrl: "https://img.icons8.com/color/96/000000/api-settings.png",
