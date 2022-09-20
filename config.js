@@ -6,7 +6,7 @@ export default {
   heroText: "Eu Sou Um ",
   facebookUsername: "Ar.vikash8",
   instaUsername: "ar_vikash",
-  typedArray: ["Desenvolvedor", "Aprendiz Rápido", " Amante do Open-source"],
+  typedArray: ["Desenvolvedor Aprendiz", "Paranaense", "Corintiano", "1", "2", "3", "4"],
   stacks: [
     {
       name: "Habilidades",
@@ -29,9 +29,9 @@ export default {
 
         },
         {
-          name: "API",
+          <name: "API",
           imageUrl: "https://img.icons8.com/color/96/000000/api-settings.png",
-          link: "https://en.wikipedia.org/wiki/API",
+          link: "https://en.wikipedia.org/wiki/API",</br>
         },
       ],
     },
