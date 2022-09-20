@@ -34,7 +34,7 @@ export default {
       ],
     },
     {
-      name: "Ferramentas",
+      name: "",
       items: [
         {
           name: "Visual Studio Code",
