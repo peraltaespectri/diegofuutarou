@@ -33,6 +33,29 @@ export default {
         },
       ],
     },
+    { [
+        {
+          name: "Android Os",
+          imageUrl: "https://img.icons8.com/fluent/240/000000/android-os.png",
+          link: "https://www.android.com/",
+        },
+        {
+          name: "API",
+          imageUrl: "https://img.icons8.com/color/96/000000/api-settings.png",
+          link: "https://en.wikipedia.org/wiki/API",
+        },
+        {
+          name: "API",
+          imageUrl: "https://img.icons8.com/color/96/000000/api-settings.png",
+          link: "https://en.wikipedia.org/wiki/API",
+        },
+        {
+          name: "API",
+          imageUrl: "https://img.icons8.com/color/96/000000/api-settings.png",
+          link: "https://en.wikipedia.org/wiki/API",
+        },
+      ],
+    },
     {
       name: "Ferramentas",
       items: [
