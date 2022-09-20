@@ -53,8 +53,8 @@
 }
 
 .techstack {
-  margin-top: 20px;
-  padding: 10px;
+  margin-top: 10px;
+  padding: 20px;
   animation: fadein 2s;
 }
 @keyframes fadein {
