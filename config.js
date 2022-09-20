@@ -58,26 +58,6 @@ export default {
         },
       ],
     },
-        {
-      name: "",
-      items: [
-      ],
-    },
-        {
-      name: "",
-      items: [
-      ],
-    },
-        {
-      name: "",
-      items: [
-      ],
-    },
-        {
-      name: "",
-      items: [
-      ],
-    },
     {
       name: "Ferramentas",
       items: [
