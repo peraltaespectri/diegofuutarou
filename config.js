@@ -6,55 +6,30 @@ export default {
   heroText: "",
   facebookUsername: "Ar.vikash8",
   instaUsername: "ar_vikash",
-  typedArray: ["Desenvolvedor Aprendiz", "Paranaense", "Corintiano", "1", "2", "3", "4"],
+  typedArray: [ "1", "Desenvolvedor Aprendiz", "2", "Paranaense", "3",  "Corintiano","4"  "colocar depois"],
   stacks: [
     {
-      name: "Habilidades",
+      name: "Redes Sociais",
       items: [
         {
-          name: "Android Os",
-          imageUrl: "https://img.icons8.com/fluent/240/000000/android-os.png",
-          link: "https://www.android.com/",
+          name: "Telegram",
+          imageUrl: "https://img.icons8.com/color/344/telegram-app.png",
+          link: "https://www.telegram.com/",
         },
         {
-          name: "API",
+          name: "Instagram",
+          imageUrl: "https://img.icons8.com/3d-fluency/344/instagram-new.png",
+          link: "https://instagram.com",
+        },
+        {
+          name: "Whatsapp",
           imageUrl: "https://img.icons8.com/color/96/000000/api-settings.png",
-          link: "https://en.wikipedia.org/wiki/API",
+          link: "https://whatsapp.com",
         },
         {
-          name: "API",
-          imageUrl: "https://img.icons8.com/color/96/000000/api-settings.png",
-          link: "https://en.wikipedia.org/wiki/API",
-        },
-        {
-          name: "API",
-          imageUrl: "https://img.icons8.com/color/96/000000/api-settings.png",
-          link: "https://en.wikipedia.org/wiki/API",
-        },
-      ],
-    },
-        {
-      name: "",
-      items: [
-        {
-          name: "Android Os",
-          imageUrl: "https://img.icons8.com/fluent/240/000000/android-os.png",
-          link: "https://www.android.com/",
-        },
-        {
-          name: "API",
-          imageUrl: "https://img.icons8.com/color/96/000000/api-settings.png",
-          link: "https://en.wikipedia.org/wiki/API",
-        },
-        {
-          name: "API",
-          imageUrl: "https://img.icons8.com/color/96/000000/api-settings.png",
-          link: "https://en.wikipedia.org/wiki/API",
-        },
-        {
-          name: "API",
-          imageUrl: "https://img.icons8.com/color/96/000000/api-settings.png",
-          link: "https://en.wikipedia.org/wiki/API",
+          name: "VK",
+          imageUrl: "https://img.icons8.com/color/344/vk-circled.png",
+          link: "https://vk.com",
         },
       ],
     },
@@ -71,11 +46,6 @@ export default {
           name: "IntelliJ IDEA",
           imageUrl: "https://img.icons8.com/color/480/000000/intellij-idea.png",
           link: "https://www.jetbrains.com/idea/",
-        },
-        {
-          name: "Git",
-          imageUrl: "https://img.icons8.com/color/144/000000/git.png",
-          link: "https://git-scm.com/",
         },
         {
           name: "Git",
