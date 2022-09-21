@@ -8,7 +8,7 @@ export default function Languages() {
           <div key={stack.name}>
             <div className="lang">
               <h1>
-                <span className="badge badge-primary">{stack.name}</span>
+                <span className="badge badge-info">{stack.name}</span>
               </h1>
             </div>
 
