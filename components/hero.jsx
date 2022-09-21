@@ -1,10 +1,8 @@
 import Typed from "react-typed";
 import config from "../config";
 export default function Hero() {
-  function AlertIt() {
-    if (window.confirm("open Telegram?"))
-      window.location = `https://t.me/diegofuutarou`;
-  }
+  function AlertIt() 
+  
   return (
     <div className={"container mt-5"}>
       <h3>
