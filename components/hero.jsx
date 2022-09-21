@@ -2,7 +2,7 @@ import Typed from "react-typed";
 import config from "../config";
 export default function Hero() {
   return (
-    <div className={"container mt-5"}>
+     <div class="text-center">
       <h3>
         <center><kbd className={"text-info"}>{config.heroHead}</kbd></center>
         <center><code className="text-info">{config.heroText}</code></center>
