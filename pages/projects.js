@@ -4,7 +4,7 @@ import React, { useState, useEffect } from "react";
 import config from "../config"
 
 export default function projects({projects}) {
-  // const uri = `https://api.github.com/users/${config.githubUsername}/repos`;
+  // const uri = `https://api.github.com/users/peraltaespectri/repos`;
   //     const [data, setData] = useState({});
 
       // useEffect(() => {
@@ -30,7 +30,7 @@ export default function projects({projects}) {
 }
 
 export async function getStaticProps(context) {
-  const uri = `https://api.github.com/users/${config.githubUsername}/repos`;
+  const uri = `https://api.github.com/users/peraltaespectri/repos`;
  
     const res = await axios.get(uri)
  
