@@ -10,7 +10,7 @@ export default function Hero() {
       <h3>
         <center><code className="text-light">{config.heroText}</code></center>
         <center><kbd className={"text-light"}>{config.heroHead}</kbd></center>
-        <center><code className="text-light">{{config.typedArray} }</code></center>
+        <center><code className="text-light">{{config.typedArray}<code></center>
       </h3>
     </div>
   );
