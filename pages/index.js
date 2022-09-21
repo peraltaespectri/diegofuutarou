@@ -13,10 +13,10 @@ const siteName = "Diego Fuutarou"
 
 
   return (
-    <div>
-      <Head>
-      <title>{pageTitle}</title>
-      <meta name="viewport" content="width=device-width, initial-scale=1" />
+        <div>
+        <Head>
+        <title>{pageTitle}</title>
+        <meta name="viewport" content="width=device-width, initial-scale=1" />
         <meta charSet="utf-8" />
         <meta name="description" content="Um desenvolvedor com poucas habilidades" />
         <meta property="og:title" content={pageTitle} key="ogtitle" />
@@ -32,11 +32,11 @@ const siteName = "Diego Fuutarou"
         <meta property="og:title" content={pageTitle} key="ogtitle" />
         <meta property="og:description" content={description} key="ogdesc" />
                 
-      </Head>
+        </Head>
 
-      <Hero />
-      <Languages />
-      <Footer />
-    </div>
+        <Hero />
+        <Languages />
+        <Footer />
+        </div>
   );
 }
