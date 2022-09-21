@@ -11,9 +11,6 @@ export default function Hero() {
         <center><code className="text-light">{config.heroText}</code></center>
         <center><kbd className={"text-light"}>{config.heroHead}</kbd></center>
         <center><code className="text-light">{{config.typedArray} }</code></center>
-        <div>
-          <span className="badge badge-warning">
-          </span>
         </div>
       </h3>
     </div>
