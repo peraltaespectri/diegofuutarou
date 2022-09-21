@@ -17,7 +17,7 @@ export default function Customhead() {
               className="d-inline-block align-top"
               alt="Jigar Varma"
             />
-            <kbd id="username">{config.websiteName}</kbd>
+            <kbd id="username">peraltaespectri</kbd>
           </a>
         </Link>
 
