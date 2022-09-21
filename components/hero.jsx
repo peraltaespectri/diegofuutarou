@@ -10,9 +10,8 @@ export default function Hero() {
       <h3>
         <center><kbd className={"text-light"}>{config.heroHead}</kbd></center>
         <center><code className="text-light">{config.heroText}</code></center>
+        <center><kbd className={"text-light"}>{config.typedArray}</kbd></center>
         <div>
-          <span className="badge badge-warning">
-            <Typed strings={config.typedArray} typeSpeed={40} loop ={true} />
           </span>
         </div>
       </h3>
