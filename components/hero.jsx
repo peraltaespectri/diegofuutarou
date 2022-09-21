@@ -4,10 +4,11 @@ export default function Hero() {
   return (
      <div class="text-center">
       <h2>
-        <kbd className={"text-light"}>{config.heroHead}</kbd></h2><br /><br />
+        <kbd className={"text-light"}>{config.heroHead}</kbd><br /><br />
+         </h2>
          <div class="text-center">
-         <h3>
         </div>
+        <h3>
         <code className="text-light">{config.heroText}</code>
         <div class="text-center">
           <span className="badge badge-primary">
