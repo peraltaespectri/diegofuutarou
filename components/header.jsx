@@ -15,15 +15,12 @@ export default function Customhead() {
               width="30"
               height="30"
               className="d-inline-block align-top"
-              alt="Jigar Varma"
+              alt="Diego Fuutarou"
             />
-            <kbd id="username">peraltaespectri</kbd>
+            <kbd id="username">{config.websiteName}</kbd>
           </a>
         </Link>
 
-        <Link href="/projects" as="/projects">
-          <a className={"btn btn-outline-light"}>Projetos</a>
-        </Link>
       </nav>
     </div>
   );
