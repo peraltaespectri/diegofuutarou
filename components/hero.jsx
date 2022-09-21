@@ -13,7 +13,6 @@ export default function Hero() {
         <div>
           <center> className="badge badge-warning">
             <Typed strings={config.typedArray} typeSpeed={40} loop ={true}</center>
-          </span>
         </div>
       </h3>
       <button
