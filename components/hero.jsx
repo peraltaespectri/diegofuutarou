@@ -3,9 +3,9 @@ import config from "../config";
 export default function Hero() {
   return (
   <div class="text-center">
-  <h1>
-  <kbd className={"text-light"}>{config.heroHead}</kbd><br /><br />
-  </h1>
+  <h2>
+  <kbd className={"text-light"}>{config.heroHead}</kbd><br />
+  </h2>
   <div class="text-center">
   </div>
   <h3>
