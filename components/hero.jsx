@@ -4,8 +4,8 @@ export default function Hero() {
   return (
      <div class="text-center">
       <h3>
-        <center><kbd className={"text-light"}>{config.heroHead}</kbd></center>
-    <div className={"container mt-5"}>
+        <center><kbd className={"text-light"}>{config.heroHead}</kbd></center><br />
+         <div class="text-center">
         </div>
         <center><code className="text-light">{config.heroText}</code></center>
         <div class="text-center">
