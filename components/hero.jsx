@@ -1,7 +1,6 @@
 import Typed from "react-typed";
 import config from "../config";
 export default function Hero() {
-  function AlertIt() 
   
   return (
     <div className={"container mt-5"}>
