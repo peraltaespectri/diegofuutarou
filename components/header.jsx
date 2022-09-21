@@ -4,7 +4,6 @@ import Link from "next/link";
 
 export default function Customhead() {
   return (
-    <p> id="">
-    </p>
+    <div> id=""></div>
   );
 }
