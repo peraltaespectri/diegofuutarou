@@ -30,8 +30,8 @@ export default {
           imageUrl: "https://img.icons8.com/color/344/vk-circled.png",
           link: "https://www.vk.com",
         },
-      ],
-    },
+        ],
+        },
         {
       name: "",
       items: [
@@ -55,10 +55,35 @@ export default {
           imageUrl: "https://img.icons8.com/color/344/vk-circled.png",
           link: "https://www.vk.com",
         },
-      ],
-    },
-    {
+        ],
+        },
+        {
       name: "OUTROS",
+      items: [
+        {
+          name: "Telegram",
+          imageUrl: "https://img.icons8.com/color/344/telegram-app.png",
+          link: "https://www.telegram.org/",
+        },
+        {
+          name: "Instagram",
+          imageUrl: "https://img.icons8.com/fluent/344/instagram-new.png",
+          link: "https://www.instagram.com",
+        },
+        {
+          name: "Whatsapp",
+          imageUrl: "https://img.icons8.com/fluency/344/whatsapp.png",
+          link: "https://www.whatsapp.com",
+        },
+        {
+          name: "VK",
+          imageUrl: "https://img.icons8.com/color/344/vk-circled.png",
+          link: "https://www.vk.com",
+        },
+        ],
+        },
+        {
+      name: "",
       items: [
         {
           name: "Visual Studio Code",
@@ -80,29 +105,6 @@ export default {
           name: "Github",
           imageUrl: "https://img.icons8.com/fluent/96/000000/github.png",
           link: "https://github.com",
-        },
-            {
-      name: "",
-      items: [
-        {
-          name: "Telegram",
-          imageUrl: "https://img.icons8.com/color/344/telegram-app.png",
-          link: "https://www.telegram.org/",
-        },
-        {
-          name: "Instagram",
-          imageUrl: "https://img.icons8.com/fluent/344/instagram-new.png",
-          link: "https://www.instagram.com",
-        },
-        {
-          name: "Whatsapp",
-          imageUrl: "https://img.icons8.com/fluency/344/whatsapp.png",
-          link: "https://www.whatsapp.com",
-        },
-        {
-          name: "VK",
-          imageUrl: "https://img.icons8.com/color/344/vk-circled.png",
-          link: "https://www.vk.com",
         },
       ],
     },
