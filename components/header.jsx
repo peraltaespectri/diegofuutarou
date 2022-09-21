@@ -1,8 +1,8 @@
 import config from "../config";
 import Link from "next/link";
 export default function Customhead() {
- return (
-    <div id="">
-    </div>
+  return (
+  <div id="">
+  </div>
   );
 }
