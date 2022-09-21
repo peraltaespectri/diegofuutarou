@@ -20,7 +20,7 @@ export default function card(props) {
             <img
 
               src={
-                "https://img.icons8.com/material-outlined/24/000000/github.png"
+                ""
               }
               alt="github"
             />{" "}
