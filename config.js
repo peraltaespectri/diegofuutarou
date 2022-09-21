@@ -1,15 +1,39 @@
 export default {
   tgUsername: "diegofuutarou",
-  githubUsername: "peraltaespectri",
   websiteName: "Diego Fuutarou",
   heroHead: "Olá, Eu sou o Diego",
   heroText: "Abaixo algumas Informções Sobre Mim",
   facebookUsername: "diegofuutarou",
   instaUsername: "diegofuutarou",
-  typedArray: ["1", "Desenvolvedor Aprendiz", "2", "Paranaense", "3",  "Corintiano", "4", "colocar depois"],
+  typedArray: ["1", "Respondo quando quero rs ", "2 ", "Paranaense ", "3",  "Nunca Online ", "4 ", "Só uso o Telegram "],
   stacks: [
     {
-      name: "Redes Sociais",
+      name: "Minhas Redes Sociais",
+      items: [
+        {
+          name: "Telegram",
+          imageUrl: "https://img.icons8.com/color/344/telegram-app.png",
+          link: "https://www.telegram.org/",
+        },
+        {
+          name: "Instagram",
+          imageUrl: "https://img.icons8.com/fluent/344/instagram-new.png",
+          link: "https://www.instagram.com",
+        },
+        {
+          name: "Whatsapp",
+          imageUrl: "https://img.icons8.com/fluency/344/whatsapp.png",
+          link: "https://www.whatsapp.com",
+        },
+        {
+          name: "VK",
+          imageUrl: "https://img.icons8.com/color/344/vk-circled.png",
+          link: "https://www.vk.com",
+        },
+      ],
+    },
+        {
+      name: "",
       items: [
         {
           name: "Telegram",
@@ -34,7 +58,7 @@ export default {
       ],
     },
     {
-      name: "Ferramentas",
+      name: "OUTROS",
       items: [
         {
           name: "Visual Studio Code",
@@ -57,6 +81,31 @@ export default {
           imageUrl: "https://img.icons8.com/fluent/96/000000/github.png",
           link: "https://github.com",
         },
+            {
+      name: "",
+      items: [
+        {
+          name: "Telegram",
+          imageUrl: "https://img.icons8.com/color/344/telegram-app.png",
+          link: "https://www.telegram.org/",
+        },
+        {
+          name: "Instagram",
+          imageUrl: "https://img.icons8.com/fluent/344/instagram-new.png",
+          link: "https://www.instagram.com",
+        },
+        {
+          name: "Whatsapp",
+          imageUrl: "https://img.icons8.com/fluency/344/whatsapp.png",
+          link: "https://www.whatsapp.com",
+        },
+        {
+          name: "VK",
+          imageUrl: "https://img.icons8.com/color/344/vk-circled.png",
+          link: "https://www.vk.com",
+        },
+      ],
+    },
       ],
     },
   ],
