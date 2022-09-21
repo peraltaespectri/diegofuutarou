@@ -3,7 +3,7 @@ import Card from "./card";
 
 export default function projects({ data }) {
  return (
-    <div id="">
-    </div>
+  <div id="">
+  </div>
   );
 }
