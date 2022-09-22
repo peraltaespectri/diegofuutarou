@@ -14,8 +14,9 @@ export default function footer() {
               <img
                 style={{ width: "80px", height: "80px" }}
                 src={"https://img.icons8.com/doodle/48/000000/facebook-new.png"}
-                alt="github"
+                alt="facebook"
               />
+          <div className="text-center text-light">Made</div>
             </a>
           </li>
 
@@ -29,6 +30,7 @@ export default function footer() {
                 src="https://img.icons8.com/fluent/50/000000/telegram-app.png"
                 alt="telegram"
               />
+          <div className="text-center text-light">Made</div>
             </a>
           </li>
 
@@ -42,6 +44,7 @@ export default function footer() {
                 src="https://img.icons8.com/fluent/50/000000/telegram-app.png"
                 alt="telegram"
               />
+          <div className="text-center text-light">Made</div>
             </a>
           </li>
 
@@ -55,6 +58,7 @@ export default function footer() {
                 src="https://img.icons8.com/fluent/50/000000/telegram-app.png"
                 alt="telegram"
               />
+          <div className="text-center text-light">Made</div>
             </a>
           </li><br />
 
@@ -68,6 +72,7 @@ export default function footer() {
                 src="https://img.icons8.com/fluent/50/000000/telegram-app.png"
                 alt="telegram"
               />
+          <div className="text-center text-light">Made</div>
             </a>
           </li>
 
@@ -81,6 +86,7 @@ export default function footer() {
                 src="https://img.icons8.com/fluent/50/000000/telegram-app.png"
                 alt="telegram"
               />
+          <div className="text-center text-light">Made</div>
             </a>
           </li>
 
@@ -108,6 +114,7 @@ export default function footer() {
                 src="https://img.icons8.com/doodle/48/000000/github.png"
                 alt="github"
               />
+          <div className="text-center text-light">Made</div>
             </a>
           </li>
         </ul>
