@@ -16,7 +16,7 @@ export default function footer() {
                 src={"https://img.icons8.com/doodle/48/000000/facebook-new.png"}
                 alt="facebook"
               />
-          <div className="text-center text-light">Plus Mensseger</div>
+          <div className="text-center text-light">Facebook</div>
             </a>
           </li>
 
@@ -30,7 +30,7 @@ export default function footer() {
                 src="https://img.icons8.com/fluent/50/000000/telegram-app.png"
                 alt="telegram"
               />
-          <div className="text-center text-light">Made</div>
+          <div className="text-center text-light">Telegram</div>
             </a>
           </li>
 
@@ -44,7 +44,7 @@ export default function footer() {
                 src="https://img.icons8.com/fluent/50/000000/telegram-app.png"
                 alt="telegram"
               />
-          <div className="text-center text-light">Made</div>
+          <div className="text-center text-light">Telegram</div>
             </a>
           </li>
 
@@ -58,7 +58,7 @@ export default function footer() {
                 src="https://img.icons8.com/fluent/50/000000/telegram-app.png"
                 alt="telegram"
               />
-          <div className="text-center text-light">Made</div>
+          <div className="text-center text-light">Telegram</div>
             </a>
           </li><br />
 
@@ -72,7 +72,7 @@ export default function footer() {
                 src="https://img.icons8.com/fluent/50/000000/telegram-app.png"
                 alt="telegram"
               />
-          <div className="text-center text-light">Made</div>
+          <div className="text-center text-light">Telegram</div>
             </a>
           </li>
 
@@ -86,7 +86,7 @@ export default function footer() {
                 src="https://img.icons8.com/fluent/50/000000/telegram-app.png"
                 alt="telegram"
               />
-          <div className="text-center text-light">Made</div>
+          <div className="text-center text-light">Telegram</div>
             </a>
           </li>
 
@@ -100,7 +100,7 @@ export default function footer() {
                 src="https://img.icons8.com/fluent/48/000000/instagram-new.png"
                 alt="Instagram"
               />
-          <div className="text-center text-light">Made</div>
+          <div className="text-center text-light">Instagram</div>
             </a>
           </li>
 
@@ -114,7 +114,7 @@ export default function footer() {
                 src="https://img.icons8.com/doodle/48/000000/github.png"
                 alt="github"
               />
-          <div className="text-center text-light">Made</div>
+          <div className="text-center text-light">GitHub</div>
             </a>
           </li>
         </ul>
