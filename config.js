@@ -1,10 +1,21 @@
 export default {
-  tgUsername: "Mrvishal_2k2",
-  githubUsername: "Mrvishal2k2",
-  websiteName: "@MrVishaL2k2",
-  heroHead: "Hey There !!",
-  heroText: "MrVishaL is here, I’m 👇👇👇👇",
-  facebookUsername: "VishaL",
-  instaUsername: "mrvishal2k2",
-  typedArray : ["Student","Geeky","Tech Enthusiast","Opensource Contributor","Quick-Learner"]
+  tgUsername: "diegofuutarou",
+  websiteName: "Diego Fuutarou",
+  heroHead: "Olá, Eu sou o Diego",
+  heroText: "Abaixo algumas Informações Sobre Mim",
+  facebookUsername: "diegofuutarou",
+  instaUsername: "peraltakw",
+  typedArray: ["1", "Respondo quando quero rs ", "2 ", "Paranaense ", "3",  "Nunca Online ", "4 ", "Só uso o Telegram "],
+  stacks: [
+        {
+      name: "",
+      items: [
+        {
+          name: "",
+          imageUrl: "",
+          link: "",
+        },
+      ],
+    },
+  ],
 };
