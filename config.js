@@ -9,7 +9,7 @@ export default {
   typedArray: ["1", "Respondo quando quero rs ", "2 ", "Paranaense ", "3",  "Nunca Online ", "4 ", "Só uso o Telegram "],
   stacks: [
     {
-      name: "Minhas Redes Sociais",
+      name: "",
       items: [
         {
           name: "",
