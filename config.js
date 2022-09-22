@@ -1,5 +1,6 @@
 export default {
   tgUsername: "diegofuutarou",
+  VKUsername: "diegofuutarou",
   websiteName: "Diego Fuutarou",
   heroHead: "Olá, Eu sou o Diego",
   heroText: "Abaixo algumas Informações Sobre Mim",
