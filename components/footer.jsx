@@ -6,7 +6,7 @@ export default function footer() {
     <div>
       <footer className="page-footer font-small blue ">
         <ul className="list-unstyled list-inline text-center">
-
+  # Título principal
   <div class="text-center">
   <h2>
   <kbd className={"text-light"}>{config.heroHead}</kbd><br />
@@ -23,9 +23,12 @@ export default function footer() {
   </h3>
   </div>
 
+      #Nome da Primeira lista de sites
       <h2>
           <code className="badge badge-primary">Minhas Redes Sociais</code><br/>
       </h2>
+
+          #Primeira lista de sites
           <li className="list-inline-item">
              <a
               href={"https://fb.me/" + config.facebookUsername}
@@ -39,7 +42,6 @@ export default function footer() {
             </a><br />
           <code className="text-light">Facebook</code>
           </li>
-
 
           <li className="list-inline-item">
             <a
@@ -81,7 +83,7 @@ export default function footer() {
               />
             </a><br />
           <code className="text-light">Facebook</code>
-          </li>
+          </li><br /> 
 
           <li className="list-inline-item">
             <a
@@ -139,9 +141,12 @@ export default function footer() {
           <code className="text-light">Facebook</code>
           </li>
 
+      #Nome da segunda lista de sites
       <h2>
           <code className="badge badge-primary">Minhas Redes Sociais</code><br/>
       </h2>
+
+          #Segunda lista de sites
           <li className="list-inline-item">
              <a
               href={"https://fb.me/" + config.facebookUsername}
@@ -197,7 +202,7 @@ export default function footer() {
               />
             </a><br />
           <code className="text-light">Facebook</code>
-          </li>
+          </li><br />
 
           <li className="list-inline-item">
             <a
@@ -255,6 +260,7 @@ export default function footer() {
           <code className="text-light">Facebook</code>
           </li>
 
+#Ultima letra que se mexe no final
   <div class="text-center"><h3><span className="badge badge-success">
   <Typed strings={config.typedArray} typeSpeed={40} loop ={true} /></span></h3>
   </div>
