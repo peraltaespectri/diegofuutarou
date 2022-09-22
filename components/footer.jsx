@@ -6,8 +6,8 @@ export default function footer() {
     <div>
       <footer className="page-footer font-small blue ">
         <ul className="list-unstyled list-inline text-center">
-          <li className="list-inline-item">
           <code className="text-light">Minhas redes sociais</code><br /><br />
+          <li className="list-inline-item">
              <a
               href={"https://fb.me/" + config.facebookUsername}
               className="btn-floating btn-fb mx-1"
