@@ -85,8 +85,7 @@ export default function footer() {
           </li>
 
           <li className="list-inline-item">
-          <div className="footer-copyright text-center py-3 text-light">Made With NextJs By Aryan Vikash
-          </div>
+          <div className="text-center py-3 text-light">Made</div>
             <a
               href={"https://www.instagram.com/" + config.instaUsername}
               className="btn-floating btn-tw mx-1"
