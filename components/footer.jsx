@@ -6,7 +6,9 @@ export default function footer() {
     <div>
       <footer className="page-footer font-small blue ">
         <ul className="list-unstyled list-inline text-center">
+      <h3>
           <code className="badge badge-warning">Minhas redes sociais</code><br /><br />
+      </h3>
           <li className="list-inline-item">
              <a
               href={"https://fb.me/" + config.facebookUsername}
