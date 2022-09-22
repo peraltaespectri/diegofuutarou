@@ -5,5 +5,17 @@ export default {
   heroText: "Abaixo algumas Informações Sobre Mim",
   facebookUsername: "diegofuutarou",
   instaUsername: "peraltakw",
-  typedArray: ["1", "Respondo quando quero rs ", "2 ", "Paranaense ", "3",  "Nunca Online ", "4 ", "Só uso o Telegram "]
+  typedArray: ["1", "Respondo quando quero rs ", "2 ", "Paranaense ", "3",  "Nunca Online ", "4 ", "Só uso o Telegram "],
+  stacks: [
+    {
+      name: "Minhas Redes Sociais",
+      items: [
+        {
+          name: "",
+          imageUrl: "",
+          link: "",
+        },
+      ],
+    },
+  ],
 };
