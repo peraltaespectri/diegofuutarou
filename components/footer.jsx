@@ -17,7 +17,7 @@ export default function footer() {
                 alt="github"
               />
             </a>
-          </li>
+          </li><br />
 
           <li className="list-inline-item">
             <a
