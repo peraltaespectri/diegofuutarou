@@ -94,7 +94,7 @@ export default function footer() {
                 style={{ width: "80px", height: "80px" }}
                 src="https://img.icons8.com/fluent/48/000000/instagram-new.png"
                 alt="Instagram"
-                title="Manchester"
+                <p>abaixo</p>
               />
             </a>
           </li>
