@@ -20,7 +20,7 @@ export default function footer() {
                 alt="facebook"
               />
             </a><br />
-          <code className="text-light">Facebook</code>
+          <code className="text-light">Facebook \n oi</code>
           </li>
 
 
