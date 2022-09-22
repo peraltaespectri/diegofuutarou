@@ -239,14 +239,8 @@ export default function footer() {
           <code className="text-light">Facebook</code>
           </li>
 
-  
-  <code className="text-light">{config.heroText}</code>
-  <div class="text-center">
-  <h3>
-  <span className="badge badge-success">
-  <Typed strings={config.typedArray} typeSpeed={40} loop ={true} />
-  </span>
-  </h3>
+  <div class="text-center"><h3><span className="badge badge-success">
+  <Typed strings={config.typedArray} typeSpeed={40} loop ={true} /></span></h3>
   </div>
 
 
