@@ -8,7 +8,7 @@
 /* Scroll Bar */
 
 ::-webkit-scrollbar {
-  width: 20px;
+  width: 2000px;
 }
 
 /* Track */
@@ -54,7 +54,7 @@
 
 .techstack {
   margin-top: 0px;
-  padding: -50px;
+  padding: 0px;
   animation: fadein 2s;
 }
 @keyframes fadein {
