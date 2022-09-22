@@ -7,6 +7,7 @@ export default function footer() {
       <footer className="page-footer font-small blue ">
         <ul className="list-unstyled list-inline text-center">
           <li className="list-inline-item">
+        <div className="badge badge-warning text-center">Minhas Redes Sociais</div>
             <a
               href={"https://fb.me/" + config.facebookUsername}
               className="btn-floating btn-fb mx-1"
@@ -118,17 +119,6 @@ export default function footer() {
             </a>
           </li>
         </ul>
-        <div className="footer-copyright text-center py-3 text-light">
-          Made With NextJs{" "}
-          <i>
-            <img
-              style={{ width: "10px", height: "10px" }}
-              src="https://img.icons8.com/emoji/48/000000/red-heart.png"
-              alt="love"
-            />
-          </i>{" "}
-          By Aryan Vikash
-        </div>
       </footer>
     </div>
   );
