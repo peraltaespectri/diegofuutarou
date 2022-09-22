@@ -17,7 +17,7 @@ export default function footer() {
                 src={"https://img.icons8.com/doodle/48/000000/facebook-new.png"}
                 alt="facebook"
               />
-            </a>
+            </a><br />
           <code className="text-light">Facebook</code>
           </li>
 
