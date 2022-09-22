@@ -17,9 +17,10 @@ export default function footer() {
                 src={"https://img.icons8.com/doodle/48/000000/facebook-new.png"}
                 alt="facebook"
               />
-          <div className="text-center text-light">Facebook</div>
             </a>
           </li>
+          <code className="text-light">Minhas redes sociais</code>
+
 
           <li className="list-inline-item">
             <a
