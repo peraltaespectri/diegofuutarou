@@ -85,7 +85,6 @@ export default function footer() {
           </li>
 
           <li className="list-inline-item">
-          <div className="text-center py-3 text-light">Made</div>
             <a
               href={"https://www.instagram.com/" + config.instaUsername}
               className="btn-floating btn-tw mx-1"
@@ -94,8 +93,8 @@ export default function footer() {
                 style={{ width: "80px", height: "80px" }}
                 src="https://img.icons8.com/fluent/48/000000/instagram-new.png"
                 alt="Instagram"
-                <p>abaixo</p>
               />
+          <div className="text-center text-light">Made</div>
             </a>
           </li>
 
