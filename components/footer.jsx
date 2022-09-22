@@ -17,7 +17,59 @@ export default function footer() {
                 alt="github"
               />
             </a>
+          </li>
+
+          <li className="list-inline-item">
+            <a
+              href={"https://t.me/" + config.tgUsername}
+              className="btn-floating btn-tw mx-1"
+            >
+              <img
+                style={{ width: "80px", height: "80px" }}
+                src="https://img.icons8.com/fluent/50/000000/telegram-app.png"
+                alt="telegram"
+              />
+            </a>
+          </li>
+
+          <li className="list-inline-item">
+            <a
+              href={"https://t.me/" + config.tgUsername}
+              className="btn-floating btn-tw mx-1"
+            >
+              <img
+                style={{ width: "80px", height: "80px" }}
+                src="https://img.icons8.com/fluent/50/000000/telegram-app.png"
+                alt="telegram"
+              />
+            </a>
+          </li>
+
+          <li className="list-inline-item">
+            <a
+              href={"https://vk.com/" + config.VKUsername}
+              className="btn-floating btn-tw mx-1"
+            >
+              <img
+                style={{ width: "80px", height: "80px" }}
+                src="https://img.icons8.com/fluent/50/000000/telegram-app.png"
+                alt="telegram"
+              />
+            </a>
           </li><br />
+
+          <li className="list-inline-item">
+            <a
+              href={"https://t.me/" + config.tgUsername}
+              className="btn-floating btn-tw mx-1"
+            >
+              <img
+                style={{ width: "80px", height: "80px" }}
+                src="https://img.icons8.com/fluent/50/000000/telegram-app.png"
+                alt="telegram"
+              />
+            </a>
+          </li>
 
           <li className="list-inline-item">
             <a
