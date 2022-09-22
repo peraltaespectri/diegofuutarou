@@ -2,7 +2,7 @@ export default {
   tgUsername: "diegofuutarou",
   websiteName: "Diego Fuutarou",
   heroHead: "Olá, Eu sou o Diego",
-  heroText: "Abaixo algumas Informções Sobre Mim",
+  heroText: "Abaixo algumas Informações Sobre Mim",
   facebookUsername: "diegofuutarou",
   instaUsername: "diegofuutarou",
   typedArray: ["1", "Respondo quando quero rs ", "2 ", "Paranaense ", "3",  "Nunca Online ", "4 ", "Só uso o Telegram "],
@@ -18,7 +18,7 @@ export default {
         {
           name: "Instagram",
           imageUrl: "https://img.icons8.com/fluent/344/instagram-new.png",
-          link: "https://www.instagram.com"\n,
+          link: "https://www.instagram.com",
         },
         {
           name: "Whatsapp",
