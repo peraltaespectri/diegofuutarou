@@ -9,13 +9,6 @@ export default {
   stacks: [
         {
       name: "",
-      items: [
-        {
-          name: "",
-          imageUrl: "",
-          link: "",
-        },
-      ],
     },
   ],
 };
