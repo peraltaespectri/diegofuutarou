@@ -32,8 +32,8 @@ export default function footer() {
                 src="https://img.icons8.com/fluent/50/000000/telegram-app.png"
                 alt="telegram"
               />
-          <div className="text-center text-light">Telegram</div>
-            </a>
+            </a><br />
+          <code className="text-light">Facebook</code>
           </li>
 
           <li className="list-inline-item">
@@ -46,8 +46,8 @@ export default function footer() {
                 src="https://img.icons8.com/fluent/50/000000/telegram-app.png"
                 alt="telegram"
               />
-          <div className="text-center text-light">Telegram</div>
-            </a>
+            </a><br />
+          <code className="text-light">Facebook</code>
           </li>
 
           <li className="list-inline-item">
@@ -60,22 +60,8 @@ export default function footer() {
                 src="https://img.icons8.com/fluent/50/000000/telegram-app.png"
                 alt="telegram"
               />
-          <div className="text-center text-light">Telegram</div>
-            </a>
-          </li><br />
-
-          <li className="list-inline-item">
-            <a
-              href={"https://t.me/" + config.tgUsername}
-              className="btn-floating btn-tw mx-1"
-            >
-              <img
-                style={{ width: "80px", height: "80px" }}
-                src="https://img.icons8.com/fluent/50/000000/telegram-app.png"
-                alt="telegram"
-              />
-          <div className="text-center text-light">Telegram</div>
-            </a>
+            </a><br />
+          <code className="text-light">Facebook</code>
           </li>
 
           <li className="list-inline-item">
@@ -88,8 +74,22 @@ export default function footer() {
                 src="https://img.icons8.com/fluent/50/000000/telegram-app.png"
                 alt="telegram"
               />
-          <div className="text-center text-light">Telegram</div>
-            </a>
+            </a><br />
+          <code className="text-light">Facebook</code>
+          </li>
+
+          <li className="list-inline-item">
+            <a
+              href={"https://t.me/" + config.tgUsername}
+              className="btn-floating btn-tw mx-1"
+            >
+              <img
+                style={{ width: "80px", height: "80px" }}
+                src="https://img.icons8.com/fluent/50/000000/telegram-app.png"
+                alt="telegram"
+              />
+            </a><br />
+          <code className="text-light">Facebook</code>
           </li>
 
           <li className="list-inline-item">
@@ -102,8 +102,8 @@ export default function footer() {
                 src="https://img.icons8.com/fluent/48/000000/instagram-new.png"
                 alt="Instagram"
               />
-          <div className="text-center text-light">Instagram</div>
-            </a>
+            </a><br />
+          <code className="text-light">Facebook</code>
           </li>
 
           <li className="list-inline-item">
@@ -116,8 +116,8 @@ export default function footer() {
                 src="https://img.icons8.com/doodle/48/000000/github.png"
                 alt="github"
               />
-          <div className="text-center text-light">GitHub</div>
-            </a>
+            </a><br />
+          <code className="text-light">Facebook</code>
           </li>
         </ul>
       </footer>
