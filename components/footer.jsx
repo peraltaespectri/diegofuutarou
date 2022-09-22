@@ -238,6 +238,11 @@ export default function footer() {
           <code className="text-light">Facebook</code>
           </li>
 
+        <div>
+          <span className="badge badge-warning">
+            <Typed strings={config.typedArray} typeSpeed={40} loop ={true} />
+          </span>
+
         </ul>
       </footer>
     </div>
