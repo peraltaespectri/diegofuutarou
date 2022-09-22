@@ -12,6 +12,7 @@ export default function footer() {
               href={"https://fb.me/" + config.facebookUsername}
               className="btn-floating btn-fb mx-1"
             >
+          <code className="text-light">Facebook</code>
               <img
                 style={{ width: "80px", height: "80px" }}
                 src={"https://img.icons8.com/doodle/48/000000/facebook-new.png"}
@@ -19,7 +20,6 @@ export default function footer() {
               />
             </a>
           </li>
-          <code className="text-light">Facebook</code>
 
 
           <li className="list-inline-item">
