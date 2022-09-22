@@ -7,11 +7,7 @@ export default function footer() {
       <footer className="page-footer font-small blue ">
         <ul className="list-unstyled list-inline text-center">
           <li className="list-inline-item">
-           <div class="text-center">
-           <span className="badge badge-success">
-           <Typed strings={config.typedArray} typeSpeed={40} loop ={true} />
-           </span>
-           </div>
+          <code className="text-light">Minhas redes sociais</code>
              <a
               href={"https://fb.me/" + config.facebookUsername}
               className="btn-floating btn-fb mx-1"
