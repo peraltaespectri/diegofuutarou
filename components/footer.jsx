@@ -3,6 +3,9 @@ import config from "../config"
 import Link from "next/link"
 export default function footer() {
   return (
+    <div>
+      <footer className="page-footer font-small blue ">
+        <ul className="list-unstyled list-inline text-center">
 
   <div class="text-center">
   <h2>
@@ -19,11 +22,6 @@ export default function footer() {
   </div>
   </h3>
   </div>
-
-
-    <div>
-      <footer className="page-footer font-small blue ">
-        <ul className="list-unstyled list-inline text-center">
 
       <h2>
           <code className="badge badge-primary">Minhas Redes Sociais</code><br/>
