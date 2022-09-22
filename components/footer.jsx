@@ -39,7 +39,7 @@ export default function footer() {
               className="btn-floating btn-fb mx-1"
             >
               <img
-                style={{ width: "80px", height: "80px" }}
+                style={{ width: "70px", height: "70px" }}
                 src={"https://img.icons8.com/doodle/48/000000/facebook-new.png"}
                 alt="facebook"
               />
@@ -53,7 +53,7 @@ export default function footer() {
               className="btn-floating btn-tw mx-1"
             >
               <img
-                style={{ width: "80px", height: "80px" }}
+                style={{ width: "70px", height: "70px" }}
                 src="https://img.icons8.com/fluent/50/000000/telegram-app.png"
                 alt="telegram"
               />
@@ -67,7 +67,7 @@ export default function footer() {
               className="btn-floating btn-tw mx-1"
             >
               <img
-                style={{ width: "80px", height: "80px" }}
+                style={{ width: "70px", height: "70px" }}
                 src="https://img.icons8.com/fluent/50/000000/telegram-app.png"
                 alt="telegram"
               />
@@ -81,7 +81,7 @@ export default function footer() {
               className="btn-floating btn-tw mx-1"
             >
               <img
-                style={{ width: "80px", height: "80px" }}
+                style={{ width: "70px", height: "70px" }}
                 src="https://img.icons8.com/fluent/50/000000/telegram-app.png"
                 alt="telegram"
               />
@@ -95,7 +95,7 @@ export default function footer() {
               className="btn-floating btn-tw mx-1"
             >
               <img
-                style={{ width: "80px", height: "80px" }}
+                style={{ width: "70px", height: "70px" }}
                 src="https://img.icons8.com/fluent/50/000000/telegram-app.png"
                 alt="telegram"
               />
@@ -109,7 +109,7 @@ export default function footer() {
               className="btn-floating btn-tw mx-1"
             >
               <img
-                style={{ width: "80px", height: "80px" }}
+                style={{ width: "70px", height: "70px" }}
                 src="https://img.icons8.com/fluent/50/000000/telegram-app.png"
                 alt="telegram"
               />
@@ -123,7 +123,7 @@ export default function footer() {
               className="btn-floating btn-tw mx-1"
             >
               <img
-                style={{ width: "80px", height: "80px" }}
+                style={{ width: "70px", height: "70px" }}
                 src="https://img.icons8.com/fluent/48/000000/instagram-new.png"
                 alt="Instagram"
               />
@@ -137,7 +137,7 @@ export default function footer() {
               className="btn-floating btn-tw mx-1"
             >
               <img
-                style={{ width: "80px", height: "80px" }}
+                style={{ width: "70px", height: "70px" }}
                 src="https://img.icons8.com/doodle/48/000000/github.png"
                 alt="github"
               />
@@ -160,7 +160,7 @@ export default function footer() {
               className="btn-floating btn-fb mx-1"
             >
               <img
-                style={{ width: "80px", height: "80px" }}
+                style={{ width: "70px", height: "70px" }}
                 src={"https://img.icons8.com/doodle/48/000000/facebook-new.png"}
                 alt="facebook"
               />
@@ -175,7 +175,7 @@ export default function footer() {
               className="btn-floating btn-tw mx-1"
             >
               <img
-                style={{ width: "80px", height: "80px" }}
+                style={{ width: "70px", height: "70px" }}
                 src="https://img.icons8.com/fluent/50/000000/telegram-app.png"
                 alt="telegram"
               />
@@ -189,7 +189,7 @@ export default function footer() {
               className="btn-floating btn-tw mx-1"
             >
               <img
-                style={{ width: "80px", height: "80px" }}
+                style={{ width: "70px", height: "70px" }}
                 src="https://img.icons8.com/fluent/50/000000/telegram-app.png"
                 alt="telegram"
               />
@@ -203,7 +203,7 @@ export default function footer() {
               className="btn-floating btn-tw mx-1"
             >
               <img
-                style={{ width: "80px", height: "80px" }}
+                style={{ width: "70px", height: "70px" }}
                 src="https://img.icons8.com/fluent/50/000000/telegram-app.png"
                 alt="telegram"
               />
@@ -217,7 +217,7 @@ export default function footer() {
               className="btn-floating btn-tw mx-1"
             >
               <img
-                style={{ width: "80px", height: "80px" }}
+                style={{ width: "70px", height: "70px" }}
                 src="https://img.icons8.com/fluent/50/000000/telegram-app.png"
                 alt="telegram"
               />
@@ -231,7 +231,7 @@ export default function footer() {
               className="btn-floating btn-tw mx-1"
             >
               <img
-                style={{ width: "80px", height: "80px" }}
+                style={{ width: "70px", height: "70px" }}
                 src="https://img.icons8.com/fluent/50/000000/telegram-app.png"
                 alt="telegram"
               />
@@ -245,7 +245,7 @@ export default function footer() {
               className="btn-floating btn-tw mx-1"
             >
               <img
-                style={{ width: "80px", height: "80px" }}
+                style={{ width: "70px", height: "70px" }}
                 src="https://img.icons8.com/fluent/48/000000/instagram-new.png"
                 alt="Instagram"
               />
@@ -259,7 +259,7 @@ export default function footer() {
               className="btn-floating btn-tw mx-1"
             >
               <img
-                style={{ width: "80px", height: "80px" }}
+                style={{ width: "70px", height: "70px" }}
                 src="https://img.icons8.com/doodle/48/000000/github.png"
                 alt="github"
               />
