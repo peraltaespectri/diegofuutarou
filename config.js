@@ -30,11 +30,6 @@ export default {
           imageUrl: "https://img.icons8.com/color/344/vk-circled.png",
           link: "https://www.vk.com",
         },
-        ],
-        },
-        {
-      name: "",
-      items: [
         {
           name: "Telegram",
           imageUrl: "https://img.icons8.com/color/344/telegram-app.png",
