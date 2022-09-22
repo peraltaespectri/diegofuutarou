@@ -24,7 +24,7 @@
 }
 
 .lang {
-  display: center;
+  display: flex;
   justify-content: center;
 }
 
@@ -54,7 +54,7 @@
 
 .techstack {
   margin-top: 0px;
-  padding: 0px;
+  padding: 100px;
   animation: fadein 2s;
 }
 @keyframes fadein {
