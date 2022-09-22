@@ -1,3 +1,4 @@
+import Typed from "react-typed";
 import config from "../config"
 import Link from "next/link"
 export default function footer() {
