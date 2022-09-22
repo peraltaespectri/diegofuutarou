@@ -239,12 +239,7 @@ export default function footer() {
           <code className="text-light">Facebook</code>
           </li>
 
-  <div class="text-center">
-  <h2>
-  <kbd className={"text-light"}>{config.heroHead}</kbd><br />
-  </h2>
-  <div class="text-center">
-  </div>
+  <div 
   <h3>
   <code className="text-light">{config.heroText}</code>
   <div class="text-center">
