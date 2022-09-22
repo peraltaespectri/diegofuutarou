@@ -18,7 +18,7 @@ export default {
         {
           name: "Instagram",
           imageUrl: "https://img.icons8.com/fluent/344/instagram-new.png",
-          link: "https://www.instagram.com",<br />
+          link: "https://www.instagram.com"<br />,
         },
         {
           name: "Whatsapp",
