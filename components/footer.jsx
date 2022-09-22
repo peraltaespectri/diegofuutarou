@@ -19,7 +19,7 @@ export default function footer() {
               />
             </a>
           </li>
-          <code className="text-light">Minhas redes sociais</code>
+          <code className="text-light">Facebook</code>
 
 
           <li className="list-inline-item">
