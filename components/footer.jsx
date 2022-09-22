@@ -239,7 +239,8 @@ export default function footer() {
           <code className="text-light">Facebook</code>
           </li>
 
-  <div 
+  <div class="text-center">
+  </div>
   <h3>
   <code className="text-light">{config.heroText}</code>
   <div class="text-center">
