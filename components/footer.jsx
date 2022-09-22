@@ -7,7 +7,7 @@ export default function footer() {
       <footer className="page-footer font-small blue ">
         <ul className="list-unstyled list-inline text-center">
       <h2>
-          <code className="badge badge-primary">Minhas redes sociais</code><br />
+          <code className="badge badge-primary">Minhas redes sociais</code><br/>
       </h2>
           <li className="list-inline-item">
              <a
