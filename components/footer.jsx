@@ -27,11 +27,12 @@ export default function footer() {
 
 
 
+
       <h2>
           <code className="badge badge-primary">Minhas Redes Sociais</code><br/>
       </h2>
 
-          // Primeira lista de sites
+
           <li className="list-inline-item">
              <a
               href={"https://fb.me/" + config.facebookUsername}
@@ -147,11 +148,12 @@ export default function footer() {
 
 
 
+
+
       <h2>
-          <code className="badge badge-primary">Minhas Redes Sociais</code><br/>
+          <code className="badge badge-primary">Redes Sociais</code><br/>
       </h2>
 
-          #Segunda lista de sites
           <li className="list-inline-item">
              <a
               href={"https://fb.me/" + config.facebookUsername}
@@ -264,6 +266,7 @@ export default function footer() {
             </a><br />
           <code className="text-light">Facebook</code>
           </li>
+
 
 
 
