@@ -4,7 +4,7 @@ export default {
   heroHead: "Olá, Eu sou o Diego",
   heroText: "Abaixo algumas Informações Sobre Mim",
   facebookUsername: "diegofuutarou",
-  instaUsername: "diegofuutarou",
+  instaUsername: "peraltakw",
   typedArray: ["1", "Respondo quando quero rs ", "2 ", "Paranaense ", "3",  "Nunca Online ", "4 ", "Só uso o Telegram "],
   stacks: [
     {
@@ -18,7 +18,7 @@ export default {
         {
           name: "Instagram",
           imageUrl: "https://img.icons8.com/fluent/344/instagram-new.png",
-          link: "https://www.instagram.com",
+          link: "{"https://www.instagram.com/" + config.instaUsername}",
         },
         {
           name: "Whatsapp",
